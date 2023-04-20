@@ -21,6 +21,6 @@ How to install on Linux Debian:
 3. Install git with the following command: "sudo apt install git"
 4. Clone this repository into a new directory with the following command:
          ```git clone https://github.com/J4spr/minecraft-Server-Template```
-5. finally run the run.sh file with ```bash run.sh```
+5. finally run the run.sh file with ```./run.sh```
 6. When you are in minecraft, enter the PUBLIC ip of the computer where you are hosting the server on.
 7. Enjoy playing minecraft on your self hosted server :)
